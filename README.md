@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuanChagas
-- 👀 I’m interested in Java or Javascript
-- 🌱 I’m currently learning Java or Javascript
+- 👀 I’m interested in Java, Javascript and PHP
+- 🌱 I’m currently learning Javascript or PHP
 - 📫 How to reach me Email: luanchagas@hotmail.com
 
 <!---

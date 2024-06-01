@@ -20,8 +20,8 @@
 
 ## 💼 Portifólios
 
- - [DB_compare ](https://github.com/LuanChagas/db_compare_golang)  ![Static Badge](https://img.shields.io/badge/MySQL-334155?logo=mysql&logoColor=f8fafc) ![Static Badge](https://img.shields.io/badge/postgresql-334155?logo=postgresql&logoColor=f8fafc) ![Static Badge](https://img.shields.io/badge/Golang-334155?logo=go) ![Static Badge](https://img.shields.io/badge/Docker-334155?logo=docker)
- - [Sistemas de gestão de gastos compartilhados - Nossas Faturas](https://nossasfaturas.luanchagas.dev/) ![Static Badge](https://img.shields.io/badge/React-334155?logo=react) ![Static Badge](https://img.shields.io/badge/NestJS-334155?logo=nestjs) ![Static Badge](https://img.shields.io/badge/nginx-334155?logo=nginx) ![Static Badge](https://img.shields.io/badge/postgresql-334155?logo=postgresql&logoColor=f8fafc)  ![Static Badge](https://img.shields.io/badge/Tailwind-334155?logo=tailwindcss) 
+  ### 🔍 [DB_compare ](https://github.com/LuanChagas/db_compare_golang)  ![Static Badge](https://img.shields.io/badge/MySQL-334155?logo=mysql&logoColor=f8fafc) ![Static Badge](https://img.shields.io/badge/postgresql-334155?logo=postgresql&logoColor=f8fafc) ![Static Badge](https://img.shields.io/badge/Golang-334155?logo=go) ![Static Badge](https://img.shields.io/badge/Docker-334155?logo=docker)
+  ### :money_with_wings: [Sistemas de gestão de gastos compartilhados - Nossas Faturas](https://nossasfaturas.luanchagas.dev/) ![Static Badge](https://img.shields.io/badge/React-334155?logo=react) ![Static Badge](https://img.shields.io/badge/NestJS-334155?logo=nestjs) ![Static Badge](https://img.shields.io/badge/nginx-334155?logo=nginx) ![Static Badge](https://img.shields.io/badge/postgresql-334155?logo=postgresql&logoColor=f8fafc)  ![Static Badge](https://img.shields.io/badge/Tailwind-334155?logo=tailwindcss) 
   ##   
 <div>
 <a href="https://github.com/LuanChagas">
